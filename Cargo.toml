@@ -19,7 +19,7 @@ futures-util = { version = "0.3", default-features = false }
 genawaiter = { version = "0.99", default-features = false, features = ["futures03"] }
 get_if_addrs = "0.5"
 http = "0.2"
-ssdp-client = "0.5"
+ssdp-client = "=0.5.5"
 roxmltree = "0.13"
 hyper = "0.13"
 bytes = "0.5"
